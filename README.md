@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Sasha (max_hha)
 #### I am a fullstack web and idie game developer.
-![I am a fullstack web and idie game developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a fullstack web and idie game developer.](https://github.com/maxhha/maxhha/raw/master/banner.png)
 
 
 Skills: React / JS / TS / Python
