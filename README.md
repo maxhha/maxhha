@@ -5,7 +5,7 @@
 
 Skills: React / JS / TS / Python
 
-🔭 I’m currently working on small graphics scetches on Codepen
+⚒ I’m currently write many labs for univercity in absurdly short time⚡⚡⚡.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/maxhha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/max_hha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://maxhha.github.io)  
 
