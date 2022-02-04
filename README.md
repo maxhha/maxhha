@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Alexander Degtyarev (max_hha)
 #### I am a fullstack web and idie game developer.
-![I am a fullstack web and idie game developer.](https://raw.githubusercontent.com/maxhha/maxhha/master/banner.svg)
+[![marching squares ^^](https://raw.githubusercontent.com/maxhha/maxhha/master/banner.svg)](https://codepen.io/max_hha/pen/WNrYXQE)
 
 
 Skills: React / JS / TS / Python
